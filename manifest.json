@@ -7,7 +7,7 @@
     "discordID": "311998249479438336",
     "github": "JosefBertolini"
   },
-  "version": "1.2.0",
+  "version": "1.2.1",
   "updater": {
     "type": "github",
     "id": "JosefBertolini/Center-Guild-Bar"
