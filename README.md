@@ -1,3 +1,4 @@
-# Replugged theme template
+# Centers the Guild List
 
-See the [theme development guide](https://guide.replugged.dev/docs/themes/getting-started) for more information on using this template.
+Intended for use with the [ModernX Theme](https://github.com/JosefBertolini/ModerX-Port), may work
+with other themes
